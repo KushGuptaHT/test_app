@@ -1,0 +1,1 @@
+Git is a distributed vrsion control system , enable the whole team to work in collaboraton while working on their resoective codes simultaneously.
